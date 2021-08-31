@@ -1,12 +1,12 @@
 ### Olá! Eu sou o Chris 😊
 
 - 🌱 Sou estudante de Ciências da Computação.
-- 🤩 Meus intereces são: Jogos🎲🏹 , Musica🎶 , Filmes/Séries🎬 , e Programar🔥
+- 🤩 Meus intereces são: Jogos🎲🏹 , Musica🎶 , Filmes/Séries🎬 e Programar🔥
 
 <div>
   <a href="https://github.com/cbcr93">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cbcr93&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbcr93&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cbcr93&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cbcr93&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
