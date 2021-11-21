@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Chris 😊
 
 - 🌱 Sou estudante de Ciências da Computação.
-- 🤩 Meus intereces são: Jogos🎲🏹 , Musica🎶 , Filmes/Séries🎬 e Codar🔥
+- 🤩 Meus interesses são: Jogos🎲🏹 , Musica🎶 , Filmes/Séries🎬 e Codar🔥
 
 <div>
   <a href="https://github.com/cbcr93">
